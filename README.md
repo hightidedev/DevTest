@@ -1,4 +1,4 @@
-# Node.js & Express project
+# Node.js & React project
 
 
 ## Instructions for using this project template
